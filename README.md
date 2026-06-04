@@ -14,3 +14,4 @@ Este é um projeto inicial para praticar os conceitos de Git e GitHub.
 
 \- GitHub
 
+\- VS Code
